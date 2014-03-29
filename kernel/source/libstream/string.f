@@ -1,0 +1,1 @@
+C high level string manipulation, not implemented.
